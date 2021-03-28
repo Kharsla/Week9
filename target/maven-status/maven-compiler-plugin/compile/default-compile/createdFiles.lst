@@ -1,0 +1,6 @@
+Persistence/SessionFactoryProvider.class
+Persistence/Database.class
+Persistence/UserDao.class
+Controller/RestApplication.class
+Controller/RestService.class
+Entity/User.class
